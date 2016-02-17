@@ -1,0 +1,22 @@
+{
+  "name": "ibm_bluegroup",
+  "version": "1.0.2",
+  "description": "V1.0",
+  "main": "bluegroup.js",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "xmldom": "^0.1.19",
+    "nodegrass": "^0.0.3",
+    "xpath.js": "^1.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ibm",
+    "bluegroup"
+  ],
+  "author": "thomas",
+  "license": "1.0"
+}
